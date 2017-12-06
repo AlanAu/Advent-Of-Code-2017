@@ -46,4 +46,4 @@ while True:
         banks[ind] += 1
     cycles += 1
         
-print ("Number of cycles before a repeat: "+ str(cycles-duplicate))
+print ("Number of cycles between repeats: "+ str(cycles-duplicate))
